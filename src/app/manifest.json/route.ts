@@ -18,12 +18,12 @@ export async function GET() {
     });
 
     const manifest = {
-      name: "Vana Connect — Next.js Starter",
-      short_name: "Vana Starter",
+      name: "Discover Weekly Archive",
+      short_name: "DW Archive",
       start_url: "/",
       display: "standalone",
-      background_color: "#09090b",
-      theme_color: "#09090b",
+      background_color: "#0a0a0f",
+      theme_color: "#1db954",
       icons: [
         {
           src: "/icon.svg",

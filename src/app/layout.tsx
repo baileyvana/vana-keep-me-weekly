@@ -2,8 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Vana Connect — Next.js Starter",
-  description: "Example app for the Vana Connect SDK",
+  title: "Discover Weekly Archive",
+  description:
+    "Save and browse your Spotify Discover Weekly playlists — never lose a recommendation again",
   manifest: "/manifest.json",
 };
 
